@@ -190,6 +190,3 @@ Data storage:
 %TMP% is used to store some files on first launch, and is also used to create a temporary ini file for the currently selected part.
 No additional data is stored beyond %TMP% and GameData\`Cornucopia β\
 If you have save window position enabled, the main window x\y positions are saved to settings.ini on exit.
-
-My email in binary, for the determined :)
-01101000 01100001 01101101 01100101 01100101 01100100 01000000 01100111 01101101 01100001 01101001 01101100 00101110 01100011 01101111 01101101
